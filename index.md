@@ -5,3 +5,8 @@
 
 ![Image of GitHub logo](https://avatars.githubusercontent.com/u/9919?s=280&v=4)
 
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
